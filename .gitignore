@@ -38,3 +38,5 @@ out/
 
 logs/*
 .DS_Store
+
+src/main/resources/application.yml
