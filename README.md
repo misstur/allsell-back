@@ -31,11 +31,15 @@ sql/allsell.sql
 
 
 # Build
-
+```
+./gradlew clean build
+```
 
 # Run
 Please run the application with:
-
+```
+docker-compose up
+```
 
 # Screenshots
 
